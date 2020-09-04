@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/isaacmmarvin/css#readme",
     "devDependencies": {
-        "node-sass": "^4.13.0",
+        "node-sass": "^4.13.1",
         "autoprefixer": "^7.1.4",
         "npm-run-all": "^4.1.1",
         "postcss-cli": "4.1.1",
